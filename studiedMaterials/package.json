@@ -23,6 +23,6 @@
     "officegen": "^0.6.5",
     "request": "^2.88.2",
     "sync-request": "^6.1.0",
-    "xlsx": "^0.17.0"
+    "xlsx": "^0.17.5"
   }
 }
